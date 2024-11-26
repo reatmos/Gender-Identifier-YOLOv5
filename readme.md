@@ -8,3 +8,7 @@ Trained with the YOLOv5 computer vision library. Has over 90% accuracy(see confu
 ## Dataset
 Soontosh scraped and annotated his own, custom dataset. Contains over 2.6k images.  
 Dataset can be found here: https://universe.roboflow.com/generalstuff/women-men/dataset/1
+
+## What's changed
+Webcam -> Use Image File
+Send to websocket -> Save the resulting image
